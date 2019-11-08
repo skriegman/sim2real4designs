@@ -15,6 +15,9 @@ and
 <a href="https://youtu.be/jbQ2T7jIYRU">Watch video documentation of the build protocol.</a>
 
 
+<a href="https://youtu.be/UqjvmkYa9u4">See designs behave in simulation and reality.</a>
+
+
 <a href="">Read the paper.</a>
 
 
