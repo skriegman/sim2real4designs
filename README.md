@@ -16,3 +16,14 @@ and
 
 
 <a href="">Read the paper.</a>
+
+
+Bibtex
+------------
+<pre>
+@inproceedings{kriegman2020scalable,
+&nbsp;&nbsp; author={Kriegman, Sam and Mohammadi Nasab, Amir and Shah, Dylan and Steele, Hannah and Branin, Gabrielle and Levin, Michael and Bongard, Josh and Kramer-Bottiglio, Rebecca},
+&nbsp;&nbsp; title={Scalable sim-to-real transfer of soft robot designs},
+&nbsp;&nbsp; year={2020},
+}
+</pre>
