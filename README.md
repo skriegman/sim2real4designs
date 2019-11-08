@@ -18,7 +18,7 @@ and
 <a href="https://youtu.be/UqjvmkYa9u4">See designs behave in simulation and reality.</a>
 
 
-<a href="">Read the paper.</a>
+<!-- <a href="">Read the paper.</a> -->
 
 
 Bibtex
