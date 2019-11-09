@@ -10,7 +10,7 @@ Scalable sim-to-real transfer of soft robot designs
 and
 [Rebecca Kramer-Bottiglio](https://scholar.google.com/citations?user=2ARbFNoAAAAJ).<br>
 
-
+<img src="https://github.com/skriegman/2020-RoboSoft/blob/master/misc/roboSoftTeaser.png" width="750">
 
 <a href="https://youtu.be/jbQ2T7jIYRU">Watch video documentation of the build protocol.</a>
 
