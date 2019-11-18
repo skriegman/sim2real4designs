@@ -3,8 +3,8 @@ Scalable sim-to-real transfer of soft robot designs
 [Sam Kriegman](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
 [Amir Mohammadi Nasab](https://scholar.google.com/citations?user=dgUQLJ0AAAAJ), 
 [Dylan Shah](https://scholar.google.com/citations?user=bfxXEJkAAAAJ),
-[Hannah Steele](https://www.eng.yale.edu/faboratory/), 
-[Gabrielle Branin](https://www.eng.yale.edu/faboratory/),
+[Hannah Steele](https://www.linkedin.com/in/hannah-steele-2a7973172), 
+[Gabrielle Branin](https://www.linkedin.com/in/gaby-branin),
 [Michael Levin](https://scholar.google.com/citations?user=luouyakAAAAJ), 
 [Josh Bongard](https://scholar.google.com/citations?user=Dj-kPasAAAAJ),
 and
