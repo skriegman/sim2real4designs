@@ -18,7 +18,7 @@ and
 <a href="https://youtu.be/UqjvmkYa9u4">See designs behave in simulation and reality.</a>
 
 
-<a href="https://scholar.google.com/citations?user=DCIwaLwAAAAJ">Read the paper.</a>
+<a href="https://arxiv.org/search/?query=sam+kriegman&searchtype=author">Read the paper.</a>
 
 
 Bibtex
