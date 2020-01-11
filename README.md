@@ -27,7 +27,7 @@ Bibtex
 @article{kriegman2019scalable,
 &nbsp;&nbsp; author={Kriegman, Sam and Mohammadi Nasab, Amir and Shah, Dylan and Steele, Hannah and Branin, Gabrielle and Levin, Michael and Bongard, Josh and Kramer-Bottiglio, Rebecca},
 &nbsp;&nbsp; title={Scalable sim-to-real transfer of soft robot designs},
-&nbsp;&nbsp; journal={arXiv preprint},
+&nbsp;&nbsp; journal={arXiv preprint 1911.10290},
 &nbsp;&nbsp; year={2019},
 }
 </pre>
