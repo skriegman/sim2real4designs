@@ -24,11 +24,11 @@ and
 Bibtex
 ------------
 <pre>
-@article{kriegman2019scalable,
+@inproceedings{kriegman2020sim2real4designs,
 &nbsp;&nbsp; author={Kriegman, Sam and Mohammadi Nasab, Amir and Shah, Dylan and Steele, Hannah and Branin, Gabrielle and Levin, Michael and Bongard, Josh and Kramer-Bottiglio, Rebecca},
 &nbsp;&nbsp; title={Scalable sim-to-real transfer of soft robot designs},
-&nbsp;&nbsp; journal={arXiv preprint},
-&nbsp;&nbsp; year={2019},
+&nbsp;&nbsp; booktitle={The IEEE International Conference on Soft Robotics (RoboSoft)},
+&nbsp;&nbsp; year={2020},
 &nbsp;&nbsp; url={https://arxiv.org/abs/1911.10290}
 }
 </pre>
