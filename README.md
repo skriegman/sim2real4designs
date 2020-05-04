@@ -14,7 +14,7 @@ and
 
 
 
-<a href="https://youtu.be/jBW2HOIYRZI">Watch the virtual presentation for RoboSoft 2020.</a>
+<a href="https://youtu.be/0dVdk8XCN9U">Watch the virtual presentation for RoboSoft 2020.</a>
 
 
 <a href="https://youtu.be/jbQ2T7jIYRU">Follow along with our video documentation of the build protocol.</a>
