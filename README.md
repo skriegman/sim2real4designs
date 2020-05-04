@@ -12,7 +12,12 @@ and
 
 <img src="https://github.com/skriegman/2020-RoboSoft/blob/master/misc/roboSoftTeaser.png" width="750">
 
-<a href="https://youtu.be/jbQ2T7jIYRU">Watch video documentation of the build protocol.</a>
+
+
+<a href="https://youtu.be/jBW2HOIYRZI">Watch the virtual presentation for RoboSoft 2020.</a>
+
+
+<a href="https://youtu.be/jbQ2T7jIYRU">Follow along with our video documentation of the build protocol.</a>
 
 
 <a href="https://youtu.be/UqjvmkYa9u4">See designs behave in simulation and reality.</a>
