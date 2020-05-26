@@ -1,2 +1,2 @@
 
-For now, please see [my 2019 RSS repo](https://github.com/skriegman/2019-RSS)
+Please see [voxcraft.github.io/design](https://voxcraft.github.io/design)
