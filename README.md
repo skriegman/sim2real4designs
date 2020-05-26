@@ -17,10 +17,7 @@ and
 <a href="https://youtu.be/0dVdk8XCN9U">Watch the virtual presentation for RoboSoft 2020.</a>
 
 
-<a href="https://youtu.be/jbQ2T7jIYRU">Follow along with our video documentation of the build protocol.</a>
-
-
-<a href="https://youtu.be/UqjvmkYa9u4">See designs behave in simulation and reality.</a>
+<a href="https://voxcraft.github.io/">Please see the voxcraft webpage for more details about this paper.</a>
 
 
 <a href="https://arxiv.org/abs/1911.10290">Read the paper.</a>
