@@ -17,7 +17,7 @@ and
 <a href="https://youtu.be/0dVdk8XCN9U">Watch the virtual presentation for RoboSoft 2020.</a>
 
 
-<a href="https://voxcraft.github.io/">Please see the voxcraft webpage for more details about this paper.</a>
+## <a href="https://voxcraft.github.io/">Please see the voxcraft webpage for more details about this paper.</a>
 
 
 <a href="https://arxiv.org/abs/1911.10290">Read the paper.</a>
@@ -29,8 +29,9 @@ Bibtex
 @inproceedings{kriegman2020sim2real4designs,
 &nbsp;&nbsp; author={Kriegman, Sam and Mohammadi Nasab, Amir and Shah, Dylan and Steele, Hannah and Branin, Gabrielle and Levin, Michael and Bongard, Josh and Kramer-Bottiglio, Rebecca},
 &nbsp;&nbsp; title={Scalable sim-to-real transfer of soft robot designs},
-&nbsp;&nbsp; booktitle={The IEEE International Conference on Soft Robotics (RoboSoft)},
+&nbsp;&nbsp; booktitle={The 3rd IEEE International Conference on Soft Robotics (RoboSoft)},
+&nbsp;&nbsp; pages={359--366},
 &nbsp;&nbsp; year={2020},
-&nbsp;&nbsp; url={https://arxiv.org/abs/1911.10290}
+&nbsp;&nbsp; url={https://doi.org/10.1109/RoboSoft48309.2020.9116004}
 }
 </pre>
