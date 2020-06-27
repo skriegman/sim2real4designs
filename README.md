@@ -17,7 +17,7 @@ and
 <a href="https://arxiv.org/abs/1911.10290">Read the paper.</a>
 
 
-<a href="https://voxcraft.github.io/">**Please see the voxcraft webpage for more details about this paper.**</a>
+<a href="https://voxcraft.github.io/">**Please see the voxcraft webpage for more details about how to reproduce this work.**</a>
 
 
 Bibtex
