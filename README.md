@@ -12,15 +12,12 @@ and
 
 <img src="https://github.com/skriegman/2020-RoboSoft/blob/master/misc/roboSoftTeaser.png" width="750">
 
-
-
 <a href="https://youtu.be/0dVdk8XCN9U">Watch the virtual presentation for RoboSoft 2020.</a>
+
+<a href="https://arxiv.org/abs/1911.10290">Read the paper.</a>
 
 
 ## <a href="https://voxcraft.github.io/">Please see the voxcraft webpage for more details about this paper.</a>
-
-
-<a href="https://arxiv.org/abs/1911.10290">Read the paper.</a>
 
 
 Bibtex
